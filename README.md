@@ -2,9 +2,7 @@
 
 ![spring](https://img.shields.io/badge/spring-5.1.3.RELEASE-brightgreen.svg)    ![springboot](https://img.shields.io/badge/springboot-2.1.1.RELEASE-brightgreen.svg)    ![springcloud](https://img.shields.io/badge/springcloud-Finchley.SR2-brightgreen.svg)    ![jdk](https://img.shields.io/badge/jdk->=1.8-blue.svg)    ![author](https://img.shields.io/badge/author-heibaiying-orange.svg)
 
-本项目仓库提供 spring、spring-boot、spring-cloud 的常用整合用例。**每个用例都提供详细的图文说明**，并给出官方文档的具体链接作为参考。随着 spring 的迭代，本仓库会持续更新，升级版本和丰富用例。
 
-**版本说明**：
 
 spring： 5.1.3.RELEASE
 
